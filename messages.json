@@ -44,12 +44,13 @@
       "text": "11"
     },
     {
-      "date": "2026-04-30 16:20:25",
-      "type": "text",
-      "text": "A"
+      "date": "2026-04-30 16:20:44",
+      "type": "media",
+      "text": "",
+      "media_kind": "Location"
     }
   ],
-  "last_updated": "2026-04-30 16:20:27",
+  "last_updated": "2026-04-30 16:20:46",
   "update_count": 5,
   "retention_days": 2
 }
