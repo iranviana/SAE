@@ -44,13 +44,13 @@
       "text": "11"
     },
     {
-      "date": "2026-04-30 16:20:44",
+      "date": "2026-04-30 16:21:06",
       "type": "media",
       "text": "",
-      "media_kind": "Location"
+      "media_kind": "Poll"
     }
   ],
-  "last_updated": "2026-04-30 16:20:46",
+  "last_updated": "2026-04-30 16:21:08",
   "update_count": 5,
   "retention_days": 2
 }
