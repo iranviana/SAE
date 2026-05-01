@@ -1,6 +1,6 @@
 {
   "channel_name": "For dl",
-  "total_messages": 25,
+  "total_messages": 26,
   "messages": [
     {
       "date": "2026-04-30 03:29:52",
@@ -262,10 +262,28 @@
       "date": "2026-05-01 13:33:04",
       "type": "text",
       "text": "H"
+    },
+    {
+      "date": "2026-05-01 14:02:47",
+      "type": "video",
+      "text": "جیانی اینفانتینو، رییس فدراسیون جهانی فوتبال، به‌طور رسمی تایید کرد تیم فوتبال ایران در جام جهانی ۲۰۲۶ به میدان خواهد رفت. این اعلام در حالی صورت گرفت که مهدی تاج، رییس فدراسیون فوتبال ایران، به‌ دلیل سابقه عضویت در سپاه پاسداران، نتوانست وارد کانادا شود.\n\nگفت‌وگو با احسان اکبری، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "mime_type": "video/mp4",
+      "media_filename": "97_0.mp4",
+      "media_id": "97_0_mp4",
+      "media_api_url": "https://api.github.com/repos/iranviana/SAE/contents/media/97_0.mp4",
+      "media_direct_url": "https://api.github.com/repos/iranviana/SAE/contents/media/97_0.mp4",
+      "media_raw_url": "https://raw.githubusercontent.com/iranviana/SAE/main/media/97_0.mp4",
+      "media_info": {
+        "duration": 0,
+        "width": 0,
+        "height": 0,
+        "mime_type": "video/mp4"
+      },
+      "has_media": true
     }
   ],
-  "last_updated": "2026-05-01 13:33:05",
-  "update_count": 4,
+  "last_updated": "2026-05-01 14:02:53",
+  "update_count": 5,
   "retention_days": 2,
   "meta_api_url": "https://api.github.com/repos/iranviana/SAE/contents/messages_meta.json",
   "media_api_base": "https://api.github.com/repos/iranviana/SAE/contents/media",
