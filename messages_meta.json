@@ -1013,77 +1013,11 @@
       "type": "album",
       "date": "2026-05-02 04:48:50",
       "telegram_message_ids": [
-        154,
         155,
         156
       ],
       "telegram_edit_date": null,
       "media_items": [
-        {
-          "telegram_message_id": 154,
-          "telegram_edit_date": null,
-          "date": "2026-05-02 04:48:50",
-          "type": "document",
-          "text": "📂 NapsternetV Config\n✅ پایدار و متصل @filembad\n\nدریافت کانفیگ رایگان اختصاصی",
-          "caption": "📂 NapsternetV Config\n✅ پایدار و متصل @filembad\n\nدریافت کانفیگ رایگان اختصاصی",
-          "entities": [
-            {
-              "type": "bold",
-              "offset": 3,
-              "length": 18
-            },
-            {
-              "type": "bold",
-              "offset": 24,
-              "length": 13
-            },
-            {
-              "type": "mention",
-              "offset": 38,
-              "length": 9
-            },
-            {
-              "type": "text_url",
-              "offset": 49,
-              "length": 28,
-              "url": "https://t.me/v2rayy_config_bot"
-            }
-          ],
-          "caption_entities": [
-            {
-              "type": "bold",
-              "offset": 3,
-              "length": 18
-            },
-            {
-              "type": "bold",
-              "offset": 24,
-              "length": 13
-            },
-            {
-              "type": "mention",
-              "offset": 38,
-              "length": 9
-            },
-            {
-              "type": "text_url",
-              "offset": 49,
-              "length": 28,
-              "url": "https://t.me/v2rayy_config_bot"
-            }
-          ],
-          "media_filename": "NUR² 👸🏻 @filembad.npvt",
-          "media_id": "NUR² 👸🏻 @filembad_npvt",
-          "mime_type": "application/octet-stream",
-          "media_api_url": "https://api.github.com/repos/iranviana/SAE/contents/media/NUR%C2%B2%20%F0%9F%91%B8%F0%9F%8F%BB%20%40filembad.npvt",
-          "media_raw_url": "https://raw.githubusercontent.com/iranviana/SAE/main/media/NUR%C2%B2%20%F0%9F%91%B8%F0%9F%8F%BB%20%40filembad.npvt",
-          "media_info": {
-            "mime_type": "application/octet-stream",
-            "file_ext": ".bin",
-            "file_size": "4.8 KB",
-            "original_file_name": "NUR² 👸🏻 @filembad.npvt"
-          }
-        },
         {
           "telegram_message_id": 155,
           "telegram_edit_date": null,
@@ -1320,8 +1254,8 @@
       }
     }
   ],
-  "last_updated": "2026-05-02 05:04:08",
-  "update_count": 2,
+  "last_updated": "2026-05-02 05:04:48",
+  "update_count": 3,
   "retention_days": 2,
   "meta_api_url": "https://api.github.com/repos/iranviana/SAE/contents/messages_meta.json",
   "media_api_base": "https://api.github.com/repos/iranviana/SAE/contents/media",
