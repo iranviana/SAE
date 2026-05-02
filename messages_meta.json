@@ -1,7 +1,7 @@
 {
   "channel_name": "For me",
   "channel_photo": null,
-  "total_messages": 6,
+  "total_messages": 7,
   "messages": [
     {
       "telegram_message_id": 1,
@@ -110,10 +110,20 @@
       "entities": [],
       "caption_entities": [],
       "has_media": false
+    },
+    {
+      "telegram_message_id": 7,
+      "telegram_edit_date": null,
+      "date": "2026-05-03 00:09:27",
+      "type": "text",
+      "text": "⏳ در حال جستجو...",
+      "entities": [],
+      "caption_entities": [],
+      "has_media": false
     }
   ],
-  "last_updated": "2026-05-03 00:09:27",
-  "update_count": 2,
+  "last_updated": "2026-05-03 00:09:29",
+  "update_count": 3,
   "retention_days": 2,
   "meta_api_url": "https://api.github.com/repos/iranviana/SAE/contents/messages_meta.json",
   "media_api_base": "https://api.github.com/repos/iranviana/SAE/contents/media",
