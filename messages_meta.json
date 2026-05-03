@@ -1,7 +1,7 @@
 {
   "channel_name": "For me",
   "channel_photo": null,
-  "total_messages": 2,
+  "total_messages": 4,
   "messages": [
     {
       "telegram_message_id": 56,
@@ -22,10 +22,30 @@
       "entities": [],
       "caption_entities": [],
       "has_media": false
+    },
+    {
+      "telegram_message_id": 58,
+      "telegram_edit_date": null,
+      "date": "2026-05-03 04:02:48",
+      "type": "text",
+      "text": "50 بهترین سرور مجازی رایگان",
+      "entities": [],
+      "caption_entities": [],
+      "has_media": false
+    },
+    {
+      "telegram_message_id": 59,
+      "telegram_edit_date": null,
+      "date": "2026-05-03 04:02:48",
+      "type": "text",
+      "text": "⏳ در حال جستجو...",
+      "entities": [],
+      "caption_entities": [],
+      "has_media": false
     }
   ],
-  "last_updated": "2026-05-03 04:02:39",
-  "update_count": 20,
+  "last_updated": "2026-05-03 04:02:49",
+  "update_count": 21,
   "retention_days": 2,
   "meta_api_url": "https://api.github.com/repos/iranviana/SAE/contents/messages_meta.json",
   "media_api_base": "https://api.github.com/repos/iranviana/SAE/contents/media",
