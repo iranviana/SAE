@@ -1,0 +1,45 @@
+{
+  "channel_name": "For me",
+  "channel_photo": null,
+  "total_messages": 2,
+  "messages": [
+    {
+      "telegram_message_id": 245,
+      "telegram_edit_date": null,
+      "date": "2026-05-03 04:59:25",
+      "type": "text",
+      "text": "1",
+      "entities": [],
+      "caption_entities": [],
+      "has_media": false
+    },
+    {
+      "telegram_message_id": 246,
+      "telegram_edit_date": null,
+      "date": "2026-05-03 04:59:25",
+      "type": "text",
+      "text": "❌ دستور نامعتبر.\nبرای جستجو از این فرمت استفاده کن:\nتعداد عبارت\nمثال: 3 funny cats",
+      "entities": [
+        {
+          "type": "code",
+          "offset": 52,
+          "length": 11
+        },
+        {
+          "type": "code",
+          "offset": 70,
+          "length": 12
+        }
+      ],
+      "caption_entities": [],
+      "has_media": false
+    }
+  ],
+  "last_updated": "2026-05-03 05:01:02",
+  "update_count": 1,
+  "retention_days": 2,
+  "meta_api_url": "https://api.github.com/repos/iranviana/SAE/contents/messages_meta.json",
+  "media_api_base": "https://api.github.com/repos/iranviana/SAE/contents/media",
+  "serve_method": "api",
+  "cache_busting": "github_api_direct"
+}
